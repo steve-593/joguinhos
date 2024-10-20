@@ -16,6 +16,7 @@ function verificar() {
     if (tentativaAtual == numeroAleatorio) {
         tentativaAtual += 1;
         mostraNum.innerText = `${tentativaAtual}/6`;
+        document.getElementById('somTiro').play();
         alert('Voce morreu!');
         btn.disabled = true;
     } else {

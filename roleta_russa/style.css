@@ -1,0 +1,58 @@
+@charset "UTF-8";
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    height: 100vh;
+    background-color: rgb(59, 58, 58);
+}
+
+.div-img {
+    position: relative;
+    border-bottom: 1px solid black;
+    height: 50%;
+}
+
+.tambor {
+    position: absolute;
+    width: 200px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.div-botao {
+    position: relative;
+    height: 50%;
+}
+
+.botao {
+    background-color: rgb(43, 42, 42);
+    border: none;
+    font-size: x-large;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+
+}
+
+.botao:active{
+    background-color: rgb(27, 27, 27);
+    transition: 0.1s;
+}
+
+.num {
+    font-size: x-large;
+    position: absolute;
+    left: 50%;
+    top: 5%;
+    transform: translateX(-50%);
+}

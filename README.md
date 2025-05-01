@@ -5,4 +5,6 @@ No momento, o único projeto presente é esse da roleta russa, que fiz apenas a 
 ## Como funciona
 
 - Ao abrir a página, será aleatorizado um número entre 0 e 5, assim sendo a posição do disparo.
+- Ao clicar em atirar, o script vai verificar a posição do disparo, e exibir o número de vezes que você clicou no botão.
+- O botão girar não altera em nada na sua sorte ou no jogo, é apenas algo para se brincar.
 - Após o fim da rodada, basta atualizar a página que você já está pronto para a próxima.

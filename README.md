@@ -4,5 +4,5 @@ No momento, o único projeto presente é esse da roleta russa, que fiz apenas a 
 [Clique aqui](https://steve-593.github.io/joguinhos/roleta_russa/index.html) para acessar a página.
 ## Como funciona
 
-- Ao abrir a página, será aleatorizado um número entre 0 e 6, assim sendo a posição do disparo.
+- Ao abrir a página, será aleatorizado um número entre 0 e 5, assim sendo a posição do disparo.
 - Após o fim da rodada, basta atualizar a página que você já está pronto para a próxima.
